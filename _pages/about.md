@@ -9,10 +9,10 @@ profile:
   image: DrChu.PNG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>(607) 379 1484</p>
+    <p>(607) 379 1484</p> 
     <p>118 Prospect Street</p>
     <p>Ithaca, NY 14850</p>
-
+#Test just commit
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
