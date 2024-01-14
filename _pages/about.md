@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Postdoctoral Associate, School of Civil 
 profile:
   align: right
   image: DrChu.PNG
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>(607) 379 1484</p> 
     <p>Cornell University</p>
