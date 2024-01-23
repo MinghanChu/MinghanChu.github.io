@@ -19,13 +19,13 @@
         #- Description 2.
         - title: Mechanical Engineering
           contents:
-            - Quantification of Reynolds-averaged-Navier-Stokes model-form Uncertainty in Transitional Boundary Layer and Airfoil Flows. 
+            #- Quantification of Reynolds-averaged-Navier-Stokes model-form Uncertainty in Transitional Boundary Layer and Airfoil Flows. 
             #- Sub-description 2.
     - title: Master
       institution: University of Saskatchewan
       year: 2018
       description:
-        - Numericalanalysisof turbulentboundarylayersonroughwallsusinganear-wallRANSmodel
+        #- Numericalanalysisof turbulentboundarylayersonroughwallsusinganear-wallRANSmodel
         #- Description 2.
     - title: Bachelor
       institution: University of Saskatchewan
@@ -37,19 +37,19 @@
 - title: Skills Summary
   type: list
  contents:
-    - <u>Languages:</u> Python, C++
-    - <u>Tools:</u> OpenFOAM, Matlab, ANSYS CFX, Paraview, Pointwise, Docker
-    - <u>CFD modeling methods:</u> Reynolds-averaged Navier-Stokes (RANS), Large Eddy Simulation (LES)
+    #- <u>Languages:</u> Python, C++
+    #- <u>Tools:</u> OpenFOAM, Matlab, ANSYS CFX, Paraview, Pointwise, Docker
+    #- <u>CFD modeling methods:</u> Reynolds-averaged Navier-Stokes (RANS), Large Eddy Simulation (LES)
 
 - title: Journal Publications
   type: list
   contents:
-    - “Quantification of Reynolds-averaged-Navier-Stokes model form uncertainty in the transitional boundary layer and airfoil flows,” 
-       MinghanChu, XiaohuaWu, DavidE.Rival, Journal of Physics of Fluids, 2022, vol. 34, no. 10.
-    - “Model form uncertainty quantification of Reynolds-averaged Navier-Stokes modeling of flows over a SD7003 airfoil,” Minghan Chu, XiaohuaWu, DavidE.Rival, Journal of Physics of Fluids,2022,vol. 34,no. 11.
-    - “Prediction of turbulent flow over a flat plate with a step change from a smooth to a rough surface using a near-wall RANS model,” Minghan Chu, D.J.Bergstrom, Journal of Fluids Engineering, 2020, vol. 142, no. 1.
-    - “Uncertainty Quantification in Computational Fluid Dynamics: Physics and Machine Learning Based Approaches,” Minghan Chu, arXiv, 2023.
-    - “Multi-fidelity Deep Learning-based methodology for epistemic uncertainty quantification of turbulence models,” MinghanChu, Weicheng Qian, arXiv,2023
+    #- “Quantification of Reynolds-averaged-Navier-Stokes model form uncertainty in the transitional boundary layer and airfoil flows,” 
+    #   MinghanChu, XiaohuaWu, DavidE.Rival, Journal of Physics of Fluids, 2022, vol. 34, no. 10.
+    #- “Model form uncertainty quantification of Reynolds-averaged Navier-Stokes modeling of flows over a SD7003 airfoil,” Minghan Chu, XiaohuaWu, DavidE.Rival, Journal of Physics of Fluids,2022,vol. 34,no. 11.
+    #- “Prediction of turbulent flow over a flat plate with a step change from a smooth to a rough surface using a near-wall RANS model,” Minghan Chu, D.J.Bergstrom, Journal of Fluids Engineering, 2020, vol. 142, no. 1.
+    #- “Uncertainty Quantification in Computational Fluid Dynamics: Physics and Machine Learning Based Approaches,” Minghan Chu, arXiv, 2023.
+    #- “Multi-fidelity Deep Learning-based methodology for epistemic uncertainty quantification of turbulence models,” MinghanChu, Weicheng Qian, arXiv,2023
 
 - title: Conference Papers
   type: time_table
