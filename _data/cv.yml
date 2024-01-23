@@ -14,12 +14,11 @@
       year: 2022
       description:
         - Quantification of Reynolds-averaged-Navier-Stokes model-form Uncertainty in Transitional Boundary Layer and Airfoil Flows
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master
+      institution: University of Saskatchewan, Saskatoon, Canada
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Numerical analysis of turbulent boundary layers on rough walls using a near-wall RANS model
 
 - title: Experience
   type: time_table
