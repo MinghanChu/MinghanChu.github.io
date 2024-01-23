@@ -44,13 +44,14 @@
 - title: Journal Publications
   type: list
   contents:
-    - “QuantificationofReynolds-averaged-Navier-Stokesmodel formuncertaintyinthetransitionalboundarylayerandairfoil flows,” 
-       MinghanChu,XiaohuaWu,DavidE.Rival, JournalofPhysicsofFluids,2022,vol. 34,no. 10.
-    - <u>Tools:</u> OpenFOAM, Matlab, ANSYS CFX, Paraview, Pointwise, Docker
-    - <u>CFD modeling methods:</u> Reynolds-averaged Navier-Stokes (RANS), Large Eddy Simulation (LES)
+    - “Quantification of Reynolds-averaged-Navier-Stokes model form uncertainty in the transitional boundary layer and airfoil flows,” 
+       MinghanChu, XiaohuaWu, DavidE.Rival, Journal of Physics of Fluids, 2022, vol. 34, no. 10.
+    - “Model form uncertainty quantification of Reynolds-averaged Navier-Stokes modeling of flows over a SD7003 airfoil,” Minghan Chu, XiaohuaWu, DavidE.Rival, Journal of Physics of Fluids,2022,vol. 34,no. 11.
+    - “Prediction of turbulent flow over a flat plate with a step change from a smooth to a rough surface using a near-wall RANS model,” Minghan Chu, D.J.Bergstrom, Journal of Fluids Engineering, 2020, vol. 142, no. 1.
+    - “Uncertainty Quantification in Computational Fluid Dynamics: Physics and Machine Learning Based Approaches,” Minghan Chu, arXiv, 2023.
+    - “Multi-fidelity Deep Learning-based methodology for epistemic uncertainty quantification of turbulence models,” MinghanChu, Weicheng Qian, arXiv,2023
 
-
-- title: Open Source Projects
+- title: Conference Papers
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
