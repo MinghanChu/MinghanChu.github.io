@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Minghan Chu
-    #- name: Date of Birth
-    #  value: 14th March 1879
     - name: Languages
       value: English, Chinese
 
@@ -12,15 +10,10 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Queen's University, Kingston, Canada
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Quantification of Reynolds-averaged-Navier-Stokes model-form Uncertainty in Transitional Boundary Layer and Airfoil Flows
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
