@@ -46,22 +46,30 @@
       items:
         - “Quantification of Reynolds-averaged-Navier-Stokes model form uncertainty in the transitional boundary layer and airfoil flows,” Minghan Chu, Xiaohua Wu, David E. Rival, Journal of Physics of Fluids, 2022, vol. 34, no. 10.
         - “Model form uncertainty quantification of Reynolds-averaged Navier-Stokes modeling of flows over a SD7003 airfoil,” Minghan Chu, Xiaohua Wu, David E. Rival, Journal of Physics of Fluids, 2022, vol. 34, no. 11.
-        - “Prediction of turbulent flow over a flat plate with a step change from a smooth to a rough surface using a near-wall RANS model,” Minghan Chu, D.J.Bergstrom. Journal of Fluids Engineering, 2020, vol. 142, no. 1.
+        - “Prediction of turbulent flow over a flat plate with a step change from a smooth to a rough surface using a near-wall RANS model,” Minghan Chu, D.J.Bergstrom, Journal of Fluids Engineering, 2020, vol. 142, no. 1.
         - “Uncertainty Quantification in Computational Fluid Dynamics - Physics and Machine Learning Based Approaches,” Minghan Chu, arXiv, 2023.
         - “Multi-fidelity Deep Learning-based methodology for epistemic uncertainty quantification of turbulence models,” Minghan Chu, Weicheng Qian, arXiv, 2023.
+- title: Journal Publications
+  type: nested_list
+  contents:
+    - title:
+      items:
+        - “Prediction of turbulent flow in a rough pipe using a near-wall RANS model,” Minghan Chu, D.J.Bergstrom, 2017 CFD Society of Canada, Windsor, Ontario.
+        - “Prediction of turbulent flow over a flat plate with a step change from a smooth to a rough surface using a near-wall RANS model,“ Minghan Chu, D.J.Bergstrom, 71th American Physical Society (APS) Division of Fluid Dynamics, Denver, Colorado.
+
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+    - title: Postdoctoral Associate
+      institution: Civil and Environmental Engineering, Cornell University
+      year: August 2023 - present
+    - title: Inversion of real-time boundary heat fluxes
+      contents:
+        - Applying (Ensemble) Kalman filter method to the inverse heat conduction problem
+    - title: Inversion of heat fluxes influenced by atmospheric boundary layer
+      contents:
+        - Incorporating the Iterative Ensemble Kalman filter (IEnKF) method with RANS/LES models to address the inverse problem in the flow over urban areas   
+
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
