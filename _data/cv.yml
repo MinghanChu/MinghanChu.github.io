@@ -63,9 +63,9 @@
     - title: Postdoctoral Associate
       institution: Civil and Environmental Engineering, Cornell University
       year: Aug 2023
-    - description: Inversion of real-time boundary heat fluxes
-      - Applying (Ensemble) Kalman filter method to the inverse heat conduction problem
-      - Inversion of heat fluxes influenced by atmospheric boundary layer
+    - description: 
+      - Applying (Ensemble) Kalman filter method to the inverse heat conduction problem (inversion of real-time boundary heat fluxes)
+      - Inversion of boundary heat fluxes influenced by atmospheric boundary layer
       - Incorporating the Iterative Ensemble Kalman filter (IEnKF) method with RANS/LES models to address the inverse problem in the flow over urban areas   
 
     - title: Postdoctoral Researcher
