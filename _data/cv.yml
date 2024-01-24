@@ -40,8 +40,9 @@
         - Large Eddy Simulation (LES)
 
 - title: Journal Publications
-  type: list
+  type: nested_list
   contents:
+    - title:
       items:
         - “Quantification of Reynolds-averaged-Navier-Stokes model form uncertainty in the transitional boundary layer and airfoil flows,” Minghan Chu, Xiaohua Wu, David E. Rival, Journal of Physics of Fluids, 2022, vol. 34, no. 10.
         - “Model form uncertainty quantification of Reynolds-averaged Navier-Stokes modeling of flows over a SD7003 airfoil,” Minghan Chu, Xiaohua Wu, David E. Rival, Journal of Physics of Fluids, 2022, vol. 34, no. 11.
