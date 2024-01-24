@@ -19,6 +19,24 @@
       year: 2018
       description:
         - Numerical analysis of turbulent boundary layers on rough walls using a near-wall RANS model
+- title: Skills Summary
+  type: nested_list
+  contents:
+    - title: Languages
+      items:
+        - Python and C++
+    - title: Tools
+      items:
+        - OpenFOAM
+        - Matlab
+        - ANSYS CFX
+        - Paraview
+        - Pointwise
+        - Docker
+    - title: CFD modeling methods
+      items:
+        - Reynolds-averaged Navier-Stokes (RANS)
+        - Large Eddy Simulation (LES)
 
 - title: Experience
   type: time_table
