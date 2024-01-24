@@ -19,6 +19,7 @@
       year: 2018
       description:
         - Numerical analysis of turbulent boundary layers on rough walls using a near-wall RANS model
+
 - title: Skills Summary
   type: nested_list
   contents:
@@ -37,6 +38,11 @@
       items:
         - Reynolds-averaged Navier-Stokes (RANS)
         - Large Eddy Simulation (LES)
+
+- title: Journal Publications
+  type: list
+  contents:
+    - “Quantification of Reynolds-averaged-Navier-Stokes model form uncertainty in the transitional boundary layer and airfoil flows,” Minghan Chu, Xiaohua Wu, David E. Rival, Journal of Physics of Fluids, 2022, vol. 34, no. 10.
 
 - title: Experience
   type: time_table
