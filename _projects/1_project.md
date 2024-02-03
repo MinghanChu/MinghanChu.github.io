@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: Separation-induced transition on an SD7003 airfoil
-img: assets/img/SD7003DNS.pdf
+img: assets/img/SD7003.pdf
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
