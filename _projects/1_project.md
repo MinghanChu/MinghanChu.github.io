@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 1
-description: a project with a background image
+description: Separation-induced transition on an SD7003 airfoil
 img: assets/img/SD7003DNS.pdf
 importance: 1
 category: work
