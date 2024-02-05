@@ -32,16 +32,17 @@ The objective of this project is to fine-tune the RANS-based transition model, a
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/SD7003Model.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    The development of the SD7003 model.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+Simulation of SD7003 airfoil using the same code and transition model, comparison with our test data and/or literature.
+ Comparison of location and size of LSB, laminar to turbulence transition, and other related parameters with literature.
+ Use of OpenFOAM in conjunction with Wei et al transition model for flat plate, results validated
+
 
 
 <div class="row justify-content-sm-center">
@@ -56,7 +57,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
-
+=begin
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
@@ -73,4 +74,5 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
+=end
 {% endraw %}
