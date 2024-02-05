@@ -29,6 +29,9 @@ MODELLING OF AQUEOUS HUMOR CIRCULATION IN THE EYE
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/AHPA2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/PredictedTriAccumulation.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 <div class="caption">
     Tritium accumulation dynamics in the anterior eye segments for the iris diameter PA1 = 1.85 mm (left) and PA2 = 5.0 mm (right).
