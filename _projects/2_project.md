@@ -44,7 +44,7 @@ flow, the eigenvalue perturbations reveal a decrease as well as an increase in t
         {% include figure.html path="assets/img/Perturb_contour.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/perturb_uv.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/perturb_uv_new.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
