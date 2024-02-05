@@ -34,7 +34,7 @@ MODELLING OF AQUEOUS HUMOR CIRCULATION IN THE EYE
     </div>
 </div>
 <div class="caption">
-    Tritium accumulation dynamics in the anterior eye segments for the iris diameter PA1 = 1.85 mm (left) and PA2 = 5.0 mm (right).
+    One the left, predicted AH velocity for the axisymmetric PA2 geometry. On the right, tritium accumulation dynamics in the anterior eye segments for the iris diameter PA1 = 1.85 mm (left) and PA2 = 5.0 mm (right).
 </div>
 
 In the present work, a physics-based model for the prediction of tritium transport due to the AH circulation has been developed. Preliminary computational analyses have been performed to demonstrate the capabilities of the model and to provide insight into the important factors that need to be considered in this problem. The geometry considered for the simulations resembles the typical dimensions encountered in healthy human eyes. It should be recognized however that variations among population characteristics or due to other conditions, some of which are dictated by pure eye physiology (e.g., the size of iris opening), would introduce deviations from the dimensions used and consequently, certain differences in the predicted flow. These aspects would need to be considered when validating Tritiated water (HTO) dispersion.
