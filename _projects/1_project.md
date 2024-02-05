@@ -24,10 +24,10 @@ The objective of this project is to fine-tune the RANS-based transition model, a
         {% include figure.html path="assets/img/CfCalibration.png" title="Calibration of Skin friction coefficient" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/CpCalibration.png" title="Calibration of pressure coefficient" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/VelCalibration.png" title="Calibration of streamwise mean velocity" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
