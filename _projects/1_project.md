@@ -14,9 +14,7 @@ The objective of this project is to fine-tune the RANS-based transition model, a
 
     ---
     Company: Pratt & Whitney Canada
-    title: project
-    description: 
-    This project conducts simulations of the SD7003 airfoil utilizing RANS-based transition models. The outcomes, derived from a calibrated model, are compared with our in-house high-fidelity DNS and experimental data, showing a good agreement. Quantities of interest include the identification and dimensions of the laminar separation bubble (LSB), the transition from laminar to turbulent flow, as well as the skin friction coefficient and pressure coefficient.
+    Project: Uncertainty reduction in RANS-based transition model
     ---
 
 <div class="row">
@@ -39,7 +37,7 @@ The objective of this project is to fine-tune the RANS-based transition model, a
     The development of the SD7003 model.
 </div>
 
-
+This project conducts simulations of the SD7003 airfoil utilizing RANS-based transition models. The outcomes, derived from a calibrated model, are compared with our in-house high-fidelity DNS and experimental data, showing a good agreement. Quantities of interest include the identification and dimensions of the laminar separation bubble (LSB), the transition from laminar to turbulent flow, as well as the skin friction coefficient and pressure coefficient.
 
 
 
