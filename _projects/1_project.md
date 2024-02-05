@@ -5,7 +5,7 @@ description: Separation-induced transition on an SD7003 airfoil
 img: assets/img/SD7003.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: angtry2009correlation
 ---
 
 The objective of this project is to fine-tune the RANS-based transition model, aiming to determine the optimal coefficients for the model to generate precise numerical outcomes.

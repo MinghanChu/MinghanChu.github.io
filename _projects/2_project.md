@@ -5,7 +5,7 @@ description: Model-form uncertainty quantification for an SD7003 airfoil
 img: assets/img/Triangle.png
 importance: 2
 category: work
-giscus_comments: true
+related_publications: angtry2009correlation, chu2022quantification
 ---
 
 The focus of the study is to advance our understanding of the performance of the physics-based uncertainty quantification approach on two different transitional flow scenarios: a flat plate and a SD7003 airfoil.
