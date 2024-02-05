@@ -15,8 +15,7 @@ The objective of this project is to fine-tune the RANS-based transition model, a
     ---
     Company: Pratt & Whitney Canada
     title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    description: 
     ---
 
 <div class="row">
