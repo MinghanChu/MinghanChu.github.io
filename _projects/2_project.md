@@ -48,7 +48,7 @@ flow, the eigenvalue perturbations reveal a decrease as well as an increase in t
     </div>
 </div>
 <div class="caption">
-    On the left, contours of initial transient behavior of instantaneous mean streamwise velocity for baseline and eigenvalue perturbations (1c and 3c) at different times: T0 = 0.1; T1 = 0.13; T2 = 0.15; T3 = 0.17. Streamlines are superimposed on the plot to capture the vortex shedding process. Tu = 0.03%. Right, Profile of normalized Reynolds shear stress along the suction side of the SD7003 airfoil (geometry depicted by gray line): from left to right are a, b, c, d, e, f for x/c = 0.15, 0.2, 0.3, 0.4, 0.5, and 0.6, respectively. Displayed are uncertainty bounds for eigenvalue perturbations with uniform value of &Delta = 1 at Tu = 0:03%. Baseline prediction is provided for reference.
+    On the left, contours of initial transient behavior of instantaneous mean streamwise velocity for baseline and eigenvalue perturbations (1c and 3c) at different times: T0 = 0.1; T1 = 0.13; T2 = 0.15; T3 = 0.17. Streamlines are superimposed on the plot to capture the vortex shedding process. Tu = 0.03%. Right, Profile of normalized Reynolds shear stress along the suction side of the SD7003 airfoil (geometry depicted by gray line): from left to right are a, b, c, d, e, f for x/c = 0.15, 0.2, 0.3, 0.4, 0.5, and 0.6, respectively. Displayed are uncertainty bounds for eigenvalue perturbations with uniform value of ΔB = 1 at Tu = 0:03%. Baseline prediction is provided for reference. (b) Enlarged version of (A) at each location.
 </div>
 
 
