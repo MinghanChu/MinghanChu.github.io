@@ -35,21 +35,20 @@ The focus of the study is to advance our understanding of the performance of the
     Anisotropy states for x/c = 0.15; 0.2; 0.3; 0.4; 0.5, and 0.6 on both the barycentric and Lumley’s invariant maps. (a) and (c): RANS-based transition model by Langtry and Menter (Tu = 0.03%); (b) and (d): in-house DNS. Note that anisotropy states are painted based on the distance from the wall surface.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+It is well known that the Boussinesq turbulent-viscosity hypothesis can introduce uncertainty in predictions for complex flow features such as separation, reattachment, and laminar-turbulent transition. This study adopts a recent physics-based uncertainty quantification (UQ) approach to address such model-form uncertainty in Reynolds-averaged Naiver–Stokes (RANS)simulations. Thus far, almost all UQ studies have focused on quantifying the model-form uncertainty in turbulent flow scenarios. The focus of the study is to advance our understanding of the performance of the UQ approach on two different transitional flow scenarios: a flat plate and a SD7003 airfoil, to close this gap. For the T3A (flat-plate) flow, most of the model-form uncertainty is concentrated in the laminar-turbulent transition region. For the SD7003 airfoil
+flow, the eigenvalue perturbations reveal a decrease as well as an increase in the length of the separation bubble. As a consequence, the uncertainty bounds successfully encompass the reattachment point. Likewise, the region of reverse flow that appears in the separation bubble is either suppressed or bolstered by the eigenvalue perturbations. This is the first successful RANS UQ study for transitional flows.
 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Perturb_contour.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/perturb_uv.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    On the left, contours of initial transient behavior of instantaneous mean streamwise velocity for baseline and eigenvalue perturbations (1c and 3c) at different times: T0 = 0.1; T1 = 0.13; T2 = 0.15; T3 = 0.17. Streamlines are superimposed on the plot to capture the vortex shedding process. Tu = 0.03%. Right, Profile of normalized Reynolds shear stress along the suction side of the SD7003 airfoil (geometry depicted by gray line): from left to right are a, b, c, d, e, f for x/c = 0.15, 0.2, 0.3, 0.4, 0.5, and 0.6, respectively. Displayed are uncertainty bounds for eigenvalue perturbations with uniform value of "\u0394" = 1 at Tu = 0:03%. Baseline prediction is provided for reference.
 </div>
 
 
