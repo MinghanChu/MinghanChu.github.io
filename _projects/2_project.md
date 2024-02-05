@@ -24,15 +24,15 @@ The focus of the study is to advance our understanding of the performance of the
     </div>
 </div>
 <div class="caption">
-     On the left, contours of streamwise mean velocity over a flat plate using the RANS-based transition model by Langtry and Menter. Right, distribution of skin friction coefficient over a flat plat..
+     On the left, contours of streamwise mean velocity over a flat plate using the RANS-based transition model by Langtry and Menter. Right, distribution of skin friction coefficient over a flat plat.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/AnisotropyStates.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Anisotropy states for x/c = 0.15; 0.2; 0.3; 0.4; 0.5, and 0.6 on both the barycentric and Lumley’s invariant maps. (a) and (c): RANS-based transition model by Langtry and Menter (Tu = 0.03%); (b) and (d): in-house DNS. Note that anisotropy states are painted based on the distance from the wall surface.
 </div>
 
 You can also put regular text between your rows of images.
