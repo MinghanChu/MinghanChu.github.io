@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://MinghanChu.github.io/sitemap.xml
+Sitemap: https://minghanchu.github.io/sitemap.xml
